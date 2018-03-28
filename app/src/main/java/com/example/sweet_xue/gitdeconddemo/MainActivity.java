@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(MainActivity.this,"",Toast.LENGTH_SHORT).show();
+                tv.setText("45444444444");
 
             }
         });
